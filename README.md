@@ -13,7 +13,7 @@ Ctrl Play is a hub for retro-style games built on [@aoTheComputer](https://twitt
 - **Interactivity**: Each game is treated as a POST on the **Pulse Protocol**, allowing users to comment and interact.
 
 ### 🧑‍🤝‍🧑 On-Chain Social Profiles
-- Profiles are stored on the Pulse Protocol, centralized but interoperable.
+- Profiles are stored on the AO with the help of Pulse Protocol.
 - Scores and activities are tied to these profiles and can be accessed across multiple platforms using Pulse.
 
 ### 💬 Social Interactions
@@ -33,11 +33,9 @@ Ctrl Play is a hub for retro-style games built on [@aoTheComputer](https://twitt
 - Written in Lua, leveraging the Pulse Protocol for decentralized social interactions.
 ### Pulse Protocol
 - A social graph protocol initially developed for Ctrl Play, now available for anyone to use.
-- Profiles and posts are stored centrally but are interoperable across platforms.
+- Profiles and posts are stored on-chain. 
 - Website: [Pulse Protocol](https://pulseprotocol.vercel.app/)
 - Docs: [Pulse Protocol Documentation](https://abhays-organization-2.gitbook.io/pulse-protocol-docs)
-- Process ID
-  - The unique process ID for Ctrl Play is: ```E8gHiH6gpkfFZywTbQj13F9SUH8N9tWrFsgGisOPHV4```
 
 ## 👥 Team
 - [Aditya Chaudhary](https://x.com/ItsAditya_xyz) - Developer
