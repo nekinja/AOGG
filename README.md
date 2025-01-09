@@ -1,3 +1,8 @@
+Project Name: my-first-app
+Branch: main
+Install Command: npm ci  # or yarn install
+Build Command: npm run build  # or yarn build
+Output Directory: dist  # or build
 # Ctrl Play 🎮
 
 Ctrl Play is a hub for retro-style games built on [@aoTheComputer](https://twitter.com/aoTheComputer) and powered by [@arweaveeco](https://twitter.com/arweaveeco). This platform offers a collection of exciting games with on-chain social profiles and scores. These social profiles are built on the **Pulse Protocol**, making them reusable across any platform using Pulse.
